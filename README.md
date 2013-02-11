@@ -6,6 +6,11 @@ testing markdown syntaxes
 >
 > this is a test
 
-_ code block _
+_code block_
 
 		this is suppose to be a code block
+
+*single asterosk*
+**double asterosk**
+_underscore_
+__double underscore__
